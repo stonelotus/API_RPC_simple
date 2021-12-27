@@ -1,0 +1,23 @@
+{
+  "name": "proiect_interviu",
+  "version": "1.0.0",
+  "description": "Proiect interviu Socialinsider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socialinsider",
+    "mock"
+  ],
+  "author": "Radoi Iulian",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "jquery-date-range-picker": "^1.0.4",
+    "node-fetch": "^2.6.1"
+  }
+}
